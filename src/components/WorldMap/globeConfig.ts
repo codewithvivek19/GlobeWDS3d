@@ -60,7 +60,7 @@ export const createGlobeTexture = () => {
     // Create a gradient background
     const gradient = context.createLinearGradient(0, 0, 0, 512);
     gradient.addColorStop(0, '#e0e0e0'); // Light gray
-    gradient.addColorStop(1, '#FFDAB9'); // Peach
+    gradient.addColorStop(1, '#FFfff'); // Peach
     context.fillStyle = gradient;
     context.fillRect(0, 0, 1024, 512);
 
