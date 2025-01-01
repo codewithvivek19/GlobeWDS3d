@@ -33,7 +33,7 @@ export const GLOBE_CONFIG = {
   globeColor: '#e0e0e0', // Light gray globe
   ambientLightColor: '#FFF5E6', // Warm white ambient light
   pointLightColor: '#FFD700', // Gold point light
-  atmosphereColor: '#FF8C00', // Dark orange atmosphere
+  atmosphereColor: '#FFFFFF', // Dark orange atmosphere
   pointColor: '#FF4500', // Bright orange point color
   ringColor: '#FFA500', // Orange ring color
   initialView: {
